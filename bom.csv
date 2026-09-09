@@ -1,0 +1,15 @@
+Item #,Quantity,Part Name / Description,Category / Source,Estimated Unit Cost (USD),Total Cost (USD)
+1,1,Seeed XIAO ESP32C3,Microcontroller / Seeed Studio,4.99,4.99
+2,4,MX-Style Keyboard Switches,Input / Mechanical Keyboard,0.35,1.40
+3,4,White Blank DSA Keycaps,Keycaps / Mechanical Keyboard,0.25,1.00
+4,0,1N4148 Diodes (Through-Hole),Diodes / Electronics (Optional),0.02,0.00
+5,1,2.25in TFT Screen,Display / AliExpress or Amazon,8.50,8.50
+6,1,3.3V Piezo Buzzer,Audio / Electronics,0.50,0.50
+7,1,2.54mm 8 Pin Male Header,Connectors / Electronics,0.10,0.10
+8,8,20cm Female-Female Jumper Wires,Wiring / Electronics,0.05,0.40
+9,4,M3x5x4 Heatset Inserts,Hardware / Fasteners,0.05,0.20
+10,4,M3x8mm Screws,Hardware / Fasteners,0.03,0.12
+11,4,M3x16mm Screws,Hardware / Fasteners,0.04,0.16
+12,1,JLCPCB Custom PCB (5 pcs baseline),PCB Manufacturing / JLCPCB,5.00,5.00
+,,,,,
+,,,,,Estimated Total:,22.37
