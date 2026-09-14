@@ -29,6 +29,7 @@ My case:
 
 My PCB: 
 <img width="419" height="252" alt="Screenshot 2026-09-09 at 7 08 42 PM" src="https://github.com/user-attachments/assets/5b1780f3-43c3-42c1-96de-f4f6f29ff92c" />
+<img width="639" height="430" alt="Screenshot 2026-09-14 at 1 31 52 PM" src="https://github.com/user-attachments/assets/dd8a0925-a4ff-4bfa-84ee-24316b3a10b7" />
 
 BOM: 
 
